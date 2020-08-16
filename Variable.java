@@ -1,4 +1,4 @@
-public class HelloJava { 
+public class Variable { 
 	public static void main(String[] args) {
 		String name = "John";  //String collect as message or word 
 		System.out.println(name);
